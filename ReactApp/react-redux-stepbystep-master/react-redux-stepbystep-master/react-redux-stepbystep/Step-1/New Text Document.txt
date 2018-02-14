@@ -1,0 +1,61 @@
+middlewares
+everything is done by middlewares
+
+
+
+
+thunk ( only handles async )
+import and combine with reducers
+
+
+promise
+saga
+
+---
+components
+
+SMART ( which are kept in container )
+DUMB (  )
+
+
+--
+
+Store
+Reducer
+
+--
+
+
+async calls in actions folder
+
+--
+
+json.stringify
+jason.parse
+
+
+airbnb.io
+
+it.skip to skip test case
+
+update-snaps: in package.json for updated snapshots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
